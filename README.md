@@ -1,4 +1,7 @@
 # loancalculator
+
+https://alexladwong.github.io/loancalculator/
+
 This web App is inspired from the "UK Salary App"
 Built it with HTML, CSS and Javascript
 
